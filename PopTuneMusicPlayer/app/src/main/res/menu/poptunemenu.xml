@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchid"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:title="Search"/>
+
+    <item
+        android:title="Theme"
+        app:showAsAction="never">
+
+        <menu>
+
+            <item
+                android:id="@+id/subitem1"
+                android:title="Light"/>
+
+            <item
+                android:id="@+id/subitem2"
+                android:title="Dark"/>
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/aboutid"
+        android:title="About"
+        app:showAsAction="never"/>
+
+</menu>

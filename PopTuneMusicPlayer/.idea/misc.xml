@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Course/Poptune/app/src/main/res/layout/activity_main.xml" value="0.15942028985507245" />
+        <entry key="..\:/Android Course/Poptune/app/src/main/res/layout/activity_player.xml" value="0.1644021739130435" />
+        <entry key="..\:/Android Course/Poptune/app/src/main/res/menu/poptunemenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 18/app/src/main/res/layout/activity_main.xml" value="0.12047101449275362" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 18/app/src/main/res/layout/activity_player.xml" value="0.12681159420289856" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 18/app/src/main/res/menu/poptunemenu.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 19/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 19/app/src/main/res/layout/activity_player.xml" value="0.15" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 19/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 19/app/src/main/res/layout/list_item.xml" value="0.15" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 19/app/src/main/res/menu/poptunemenu.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 22/app/src/main/res/layout/activity_main.xml" value="0.18342391304347827" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 22/app/src/main/res/menu/poptunemenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_arrow_back.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_edit.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_next.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_pause.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_play.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_previous.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/drawable/ic_search.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/layout/activity_player.xml" value="0.15" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/layout/activity_splash.xml" value="0.17889492753623187" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/layout/list_item.xml" value="0.17889492753623187" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/menu/poptunemenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/PopTune Project Files/Poptune Project 23/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21574074074074073" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 11/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 11/app/src/main/res/layout/activity_player.xml" value="0.25" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 11/app/src/main/res/menu/poptunemenu.xml" value="0.1" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19166666666666668" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/layout/activity_player.xml" value="0.14130434782608695" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/menu/poptunemenu.xml" value="0.21" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19166666666666668" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 15/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/drawable/ic_edit.xml" value="0.2111111111111111" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/drawable/ic_pause.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/layout/activity_player.xml" value="0.18" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/layout/activity_splash.xml" value="0.17572463768115942" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/menu/poptunemenu.xml" value="0.18703703703703703" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 16/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 18/app/src/main/res/layout/activity_main.xml" value="0.1331521739130435" />
+        <entry key="..\:/PopTune Project Fles/Poptune Project 18/app/src/main/res/layout/activity_player.xml" value="0.1331521739130435" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/drawable/ic_edit.xml" value="0.19074074074074074" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/drawable/ic_next.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/drawable/ic_pause.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/drawable/ic_play.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/drawable/ic_previous.xml" value="0.2169230769230769" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/layout/activity_main.xml" value="0.17391304347826086" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/layout/activity_player.xml" value="0.18" />
+        <entry key="..\:/PopTune Project/Poptune Project 1/app/src/main/res/menu/poptunemenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/PopTune Project/Poptune Project 2/app/src/main/res/layout/activity_main.xml" value="0.1490036231884058" />
+        <entry key="..\:/PopTune Project/Poptune Project 2/app/src/main/res/layout/activity_player.xml" value="0.25" />
+        <entry key="..\:/PopTune Project/Poptune Project 2/app/src/main/res/menu/poptunemenu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
